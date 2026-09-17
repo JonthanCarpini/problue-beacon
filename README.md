@@ -25,6 +25,12 @@ Não edite este arquivo à mão: a assinatura deixaria de bater e o aplicativo i
 2. Recrie o app e baixe o documento novo:
    `curl -s https://problue.sistemas.digital/beacon.json -o beacon.json`
 3. Faça commit aqui.
+4. Limpe o cache da jsDelivr, que segura o arquivo antigo por horas:
+   `curl -s https://purge.jsdelivr.net/gh/JonthanCarpini/problue-beacon@main/beacon.json`
+   O GitHub raw se atualiza sozinho em alguns minutos.
+
+Espelho atrasado não quebra nada: o aplicativo consulta as quatro fontes e fica com a de **maior
+versão**. O espelho desatualizado só deixa de ajudar se o resto cair.
 
 ## Fontes que o aplicativo consulta
 
