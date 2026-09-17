@@ -1,5 +1,5 @@
 {
-  "v": 1,
+  "v": 3,
   "atualizado": "2026-09-17",
   "api": [
     "https://problue.sistemas.digital",
@@ -10,5 +10,5 @@
   "conta": "https://problue.sistemas.digital/conta",
   "comprar": "https://problue.sistemas.digital/comprar",
   "alg": "Ed25519",
-  "sig": "UYB6Ops8qtsokUQyhJ63q5neFOnNNJYlTokCDSeNlIrNm05yD+U+wSfIixHS30Z3xcO4OgL7Tf79dovGjEEsDg=="
+  "sig": "JBm/wftKfd6GoZDIv8xMAxaQtXVYGvtvuzjh48RlLyOOg22DJ5WITWyU8TPdUWxsYhNaep+4Q4188QsFIP6oAg=="
 }
