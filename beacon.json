@@ -1,0 +1,14 @@
+{
+  "v": 1,
+  "atualizado": "2026-09-17",
+  "api": [
+    "https://problue.sistemas.digital",
+    "https://pdvoff.pdvtotal.site"
+  ],
+  "site": "https://problue.sistemas.digital",
+  "suporte": "https://problue.sistemas.digital/faq",
+  "conta": "https://problue.sistemas.digital/conta",
+  "comprar": "https://problue.sistemas.digital/comprar",
+  "alg": "Ed25519",
+  "sig": "UYB6Ops8qtsokUQyhJ63q5neFOnNNJYlTokCDSeNlIrNm05yD+U+wSfIixHS30Z3xcO4OgL7Tf79dovGjEEsDg=="
+}
